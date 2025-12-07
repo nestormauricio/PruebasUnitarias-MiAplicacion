@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace MiAplicacion.Tests
 {
-    internal class CalculadoraTests
+    public class CalculadoraTests
     {
 
-        [Fact]
+        [Fact]  
         public void Sumar_DosNumeros_RetornaResultadoCorrecto()
         {
             var calc = new Calculadora();
