@@ -1,0 +1,23 @@
+# Compiled source #
+###################
+*.dll
+*.exe
+*.pdb
+
+# Build results #
+#################
+bin/
+obj/
+
+# Visual Studio #
+#################
+.vs/
+*.user
+*.suo
+*.cache
+
+# Test results #
+################
+TestResults/
+*.coverage
+*.coveragexml
