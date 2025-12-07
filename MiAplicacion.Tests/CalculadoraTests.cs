@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MiAplicacion.Tests
 {
-    internal class CalculadoraTests
+    public class CalculadoraTests
     {
 
         [Fact]
