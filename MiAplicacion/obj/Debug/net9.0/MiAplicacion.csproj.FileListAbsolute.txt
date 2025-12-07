@@ -1,0 +1,11 @@
+C:\Proyectos\TECHUniversidad\PruebasUnitarias\MiAplicacion\MiAplicacion\bin\Debug\net9.0\MiAplicacion.deps.json
+C:\Proyectos\TECHUniversidad\PruebasUnitarias\MiAplicacion\MiAplicacion\bin\Debug\net9.0\MiAplicacion.dll
+C:\Proyectos\TECHUniversidad\PruebasUnitarias\MiAplicacion\MiAplicacion\bin\Debug\net9.0\MiAplicacion.pdb
+C:\Proyectos\TECHUniversidad\PruebasUnitarias\MiAplicacion\MiAplicacion\obj\Debug\net9.0\MiAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\TECHUniversidad\PruebasUnitarias\MiAplicacion\MiAplicacion\obj\Debug\net9.0\MiAplicacion.AssemblyInfoInputs.cache
+C:\Proyectos\TECHUniversidad\PruebasUnitarias\MiAplicacion\MiAplicacion\obj\Debug\net9.0\MiAplicacion.AssemblyInfo.cs
+C:\Proyectos\TECHUniversidad\PruebasUnitarias\MiAplicacion\MiAplicacion\obj\Debug\net9.0\MiAplicacion.csproj.CoreCompileInputs.cache
+C:\Proyectos\TECHUniversidad\PruebasUnitarias\MiAplicacion\MiAplicacion\obj\Debug\net9.0\MiAplicacion.dll
+C:\Proyectos\TECHUniversidad\PruebasUnitarias\MiAplicacion\MiAplicacion\obj\Debug\net9.0\refint\MiAplicacion.dll
+C:\Proyectos\TECHUniversidad\PruebasUnitarias\MiAplicacion\MiAplicacion\obj\Debug\net9.0\MiAplicacion.pdb
+C:\Proyectos\TECHUniversidad\PruebasUnitarias\MiAplicacion\MiAplicacion\obj\Debug\net9.0\ref\MiAplicacion.dll
